@@ -1,5 +1,5 @@
 FROM php:5.6-apache
-MAINTAINER Pierre Cheynier <pierre.cheynier@sfr.com>
+MAINTAINER Jiri Altman <altman.jiri@gmail.com>
 
 ENV PHPIPAM_SOURCE https://github.com/phpipam/phpipam/archive/
 ENV PHPIPAM_VERSION 1.16.003
